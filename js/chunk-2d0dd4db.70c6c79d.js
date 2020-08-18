@@ -1,2 +1,2 @@
 (window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0dd4db"],{"818d":function(e,n,t){"use strict";t.r(n);var c=function(){var e=this,n=e.$createElement;e._self._c;return e._m(0)},r=[function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[t("br"),t("h4",[e._v("Q: iOS 生成的图标：PNG透明背景原图片，生成后为什么变成了白色背景效果图标？")]),t("p",[e._v("A: iOS 图标不支持透明图层。生成时会默认添加白色背景。背景颜色可以在“可选参数”中设置。")]),t("h4",[e._v("Q: 请问 iOS 不可以生成圆角么？")]),t("p",[e._v("A: iOS 系统会自动添加圆角。推荐上传正方形（不含圆角）的图片。生成的图片也全是正方形的，可以直接拖放到 Xcode 里（以及上传到 AppStore Connect）。")])])}],i={},o=i,u=t("2877"),a=Object(u["a"])(o,c,r,!1,null,"34cf923a",null);n["default"]=a.exports}}]);
-//# sourceMappingURL=chunk-2d0dd4db.1cbe830c.js.map
+//# sourceMappingURL=chunk-2d0dd4db.70c6c79d.js.map
